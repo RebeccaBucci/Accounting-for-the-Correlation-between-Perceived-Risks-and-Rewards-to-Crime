@@ -15,6 +15,8 @@ H3: When risks are greater (smaller), average perceptions of reward will be smal
 
 */
 
+*testing changes 
+
 cd "C:\Users\rbucc\OneDrive - Harvard University\TESS\Correlation Between Perceived Risks and Rewards to Crime"
 
 local date %tdNNDDYY date(c(current_date), "DMY")
